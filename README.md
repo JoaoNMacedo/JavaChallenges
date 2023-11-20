@@ -27,7 +27,7 @@ $ java PrimeiroDesafio
 
 Certifique-se de estar dentro do diretório `src/desafios/supera` para executar corretamente os comandos.
 
-Sinta-se à vontade para explorar as soluções dos desafios e adaptá-las de acordo com suas necessidades.
+
 
 
 
